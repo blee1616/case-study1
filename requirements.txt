@@ -1,0 +1,3 @@
+git+https://github.com/UChicagoFM/utcxchangelib.git
+protobuf==6.31.1
+grpcio==1.80.0
