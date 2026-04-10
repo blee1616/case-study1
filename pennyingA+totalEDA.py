@@ -11,7 +11,7 @@ ALL_SYMBOLS = [
     "A", "B", "C", "ETF",
     "B_C_950", "B_C_1000", "B_C_1050",
     "B_P_950", "B_P_1000", "B_P_1050",
-    "R_CUT", "R_HOLD", "R_HIKE",
+    # "R_CUT", "R_HOLD", "R_HIKE",
 ]
 
 # Penny phase params
